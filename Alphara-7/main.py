@@ -1,3 +1,9 @@
+# Código criado por:
+# GUILHERME HENRIQUE OLIVEIRA DE SOUZA
+# LUIESLEY DE ASSIS XAVIER
+# PEDRO ALONÇO SANCHEZ
+# GUSTAVO DE SOUZA MACHADO
+
 # importação de bibilioptecas
 
 import time
